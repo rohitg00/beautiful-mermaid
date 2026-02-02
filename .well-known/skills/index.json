@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "skills": [
+    {
+      "name": "beautiful-mermaid",
+      "description": "Render Mermaid diagrams as beautiful SVGs or ASCII art. Ultra-fast, fully themeable, zero DOM dependencies.",
+      "files": [
+        "LICENSE",
+        "README.md",
+        "SKILL.md",
+        "skills/flowchart/SKILL.md",
+        "skills/sequence/SKILL.md",
+        "skills/class/SKILL.md",
+        "skills/er/SKILL.md",
+        "skills/themes/SKILL.md",
+        "skills/ascii/SKILL.md",
+        "skills/references/syntax-guide.md",
+        "skills/references/themes.md",
+        "skills/references/shapes.md",
+        "skills/references/api.md"
+      ]
+    }
+  ]
+}
